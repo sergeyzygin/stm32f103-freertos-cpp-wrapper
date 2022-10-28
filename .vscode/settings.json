@@ -1,0 +1,7 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+//    "cortex-debug.armToolchainPath" : "/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.macos64_2.0.0.202105311346/tools/bin",
+    "cortex-debug.armToolchainPath" : "/Applications/ARM/bin",
+"cortex-debug.openocdPath": "/usr/local/Cellar/open-ocd/0.11.0/bin/openocd",
+
+}
